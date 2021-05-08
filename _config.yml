@@ -1,6 +1,6 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
+title: 89huyu
+subtitle: 个人小站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
@@ -67,8 +67,8 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 技术支持, description: support, url: '/support'}      
-    - {title: 关于我, description: about, url: '/about'}   
+    - {title: 赞助商, description: support, url: '/support'}      
+    - {title: 关于我们, description: about, url: '/about'}   
     
 
 # Pagination
